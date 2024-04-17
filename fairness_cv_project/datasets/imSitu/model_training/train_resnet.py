@@ -48,6 +48,8 @@ def train(path_dataset: Path, path_save: Path, args: argparse.Namespace):
         ]),
     }
 
+    
+
     image_datasets = {'train': datasets.ImageFolder(path_dataset / 'train',
                                             data_transforms['train']),
                     'val': datasets.ImageFolder(path_dataset / 'val',
