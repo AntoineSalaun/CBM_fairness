@@ -1,0 +1,2 @@
+0.3475645255191151
+{'Count male 1': 38, 'Proportion 1': 0.38, 'Count male 2': 46, 'Proportion 2': 0.46, 'Count total': 84, 'Proportion total': 0.42, 'Length Total': 200, 'accuracy_parity': 0.004910706753724459, 'accuracy_parity_class': 'male', 'per_class_accuracy_parity': 0.13168842717739773, 'Male Parity Top 3 Classes': 'wringing (0.5555555555555556), wrinkling (0.49999999999999994), standing (0.46153846153846156)', 'Female Parity Top 3 Classes': 'wheeling (-0.46153846153846156), climbing (-0.45454545454545453), diving (-0.375)'}

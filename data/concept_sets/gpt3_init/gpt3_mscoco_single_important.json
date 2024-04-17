@@ -1,0 +1,109 @@
+{
+    "tennis racket": [
+        "a handle on one side",
+        "a large, oval-shaped frame",
+        "a network of strings stretched across the frame",
+        "a small, round head",
+        "a small, round head on the other side",
+        "a stringed grid across the middle",
+        "two handles on the sides"
+    ],
+    "chair": [
+        "a backrest",
+        "a seat for a person",
+        "armrests (optional)",
+        "four legs"
+    ],
+    "cell phone": [
+        "a camera",
+        "a color screen",
+        "a display screen",
+        "a keyboard or touchscreen",
+        "a microphone",
+        "a small, portable device",
+        "a small, rectangular shape",
+        "a speaker",
+        "buttons or a touchscreen",
+        "one or more cameras"
+    ],
+    "surfboard": [
+        "a flat bottom",
+        "a large, flat board",
+        "a long, narrow shape",
+        "a pointed nose",
+        "can be different colors",
+        "can be different shapes and sizes",
+        "decorations or graphics on the top",
+        "fins on the sides",
+        "has a fin or multiple fins",
+        "used for surfing"
+    ],
+    "bottle": [
+        "a cap or cork",
+        "a closed top",
+        "a label",
+        "a long, slender shape",
+        "a narrow neck",
+        "a neck that is narrower than the body",
+        "a screw-top or corked opening",
+        "a slender, cylindrical shape",
+        "can be any size or color",
+        "usually made of glass or plastic"
+    ],
+    "skis": [
+        "a curved or V-shaped body",
+        "a curved or V-shaped bottom",
+        "a long, narrow shape",
+        "a long, thin shape",
+        "a pointed end",
+        "bindings for attaching to feet",
+        "bindings for attaching to feet or boots",
+        "used for sliding on snow",
+        "usually brightly colored"
+    ],
+    "horse": [
+        "a large body",
+        "a long neck",
+        "a mane",
+        "a tail",
+        "four legs"
+    ],
+    "bed": [
+        "a footboard",
+        "a headboard",
+        "a large, flat surface",
+        "a large, rectangular shape",
+        "a soft surface for sleeping",
+        "for sleeping on",
+        "may have a blanket",
+        "may have a footboard",
+        "may have a headboard",
+        "may have a mattress",
+        "may have a pillow",
+        "may have sheets",
+        "may have side rails",
+        "pillows and blankets",
+        "usually has a frame"
+    ],
+    "car": [
+        "a door on the side",
+        "a grille",
+        "a large, rectangular body",
+        "a long, rectangular body",
+        "a steering wheel in the front",
+        "a windshield",
+        "four round, cylindrical shapes (wheels)",
+        "rearview mirrors",
+        "two headlights",
+        "windows along the sides"
+    ],
+    "couch": [
+        "a comfortable backrest",
+        "a cushioned surface",
+        "a large, flat surface",
+        "a large, rectangular shape",
+        "a soft, padded surface",
+        "armrests on either side",
+        "three or more legs"
+    ]
+}

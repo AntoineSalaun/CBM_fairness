@@ -1,0 +1,174 @@
+{
+    "phoning": [
+        "activity",
+        "communicating",
+        "using a phone",
+        "using the phone"
+    ],
+    "hugging": [
+        "action",
+        "embrace",
+        "gesture",
+        "touch"
+    ],
+    "eating": [
+        "action",
+        "process"
+    ],
+    "admiring": [
+        "action",
+        "state",
+        "verb"
+    ],
+    "leaning": [
+        "action",
+        "condition",
+        "movement",
+        "position",
+        "state"
+    ],
+    "putting": [
+        "activity",
+        "golf",
+        "sport"
+    ],
+    "carrying": [
+        "action",
+        "moving",
+        "transporting",
+        "verb"
+    ],
+    "reading": [
+        "action",
+        "activity",
+        "process"
+    ],
+    "communicating": [
+        "action",
+        "activity",
+        "conversing",
+        "process",
+        "speaking",
+        "talking"
+    ],
+    "hitchhiking": [
+        "activity",
+        "method of transportation",
+        "transportation",
+        "travel",
+        "traveling"
+    ],
+    "resting": [
+        "activity",
+        "condition",
+        "state"
+    ],
+    "vacuuming": [
+        "activities",
+        "activity",
+        "cleaning",
+        "household chores"
+    ],
+    "talking": [
+        "action",
+        "behavior",
+        "communication"
+    ],
+    "cleaning": [
+        "action",
+        "activity",
+        "process"
+    ],
+    "sitting": [
+        "action",
+        "position",
+        "state"
+    ],
+    "patting": [
+        "action",
+        "behavior",
+        "touching"
+    ],
+    "hunching": [
+        "action",
+        "activity",
+        "behavior",
+        "movement"
+    ],
+    "smelling": [
+        "action",
+        "function",
+        "perceiving",
+        "process",
+        "sensing"
+    ],
+    "rehabilitating": [
+        "curing",
+        "helping",
+        "treating"
+    ],
+    "perspiring": [
+        "excretion",
+        "metabolizing",
+        "secreting",
+        "sweating"
+    ],
+    "shushing": [
+        "action",
+        "noise",
+        "nonverbal communication",
+        "silence",
+        "sound"
+    ],
+    "helping": [
+        "action",
+        "doing",
+        "verb"
+    ],
+    "practicing": [
+        "action",
+        "activity",
+        "behavior",
+        "verb"
+    ],
+    "pinning": [
+        "action",
+        "activity",
+        "process"
+    ],
+    "embracing": [
+        "action",
+        "hugging",
+        "physical contact",
+        "touching"
+    ],
+    "drinking": [
+        "action",
+        "activity",
+        "behavior"
+    ],
+    "pushing": [
+        "action",
+        "activity",
+        "motion",
+        "movement",
+        "physical activity"
+    ],
+    "crying": [
+        "action",
+        "emotion",
+        "feeling"
+    ],
+    "rubbing": [
+        "action",
+        "activity",
+        "contact",
+        "touching"
+    ],
+    "feeding": [
+        "action",
+        "activity",
+        "behavior",
+        "process"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "doctor": [
+        "a clinic",
+        "a doctor",
+        "a doctor's office",
+        "a hospital",
+        "a medical chart",
+        "a nurse",
+        "a patient",
+        "a waiting room",
+        "an examination room"
+    ],
+    "nurse": [
+        "a IV",
+        "a bed",
+        "a chart",
+        "a desk",
+        "a hospital",
+        "a nurse's station",
+        "a patient",
+        "a phone"
+    ]
+}

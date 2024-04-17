@@ -1,0 +1,2 @@
+0.30972249175237726
+{'Count male 1': 41, 'Proportion 1': 0.41, 'Count male 2': 45, 'Proportion 2': 0.45, 'Count total': 86, 'Proportion total': 0.43, 'Length Total': 200, 'accuracy_parity': 0.0037610238203698576, 'accuracy_parity_class': 'male'}

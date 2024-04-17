@@ -1,0 +1,279 @@
+{
+    "phoning": [
+        "a bright screen",
+        "a keyboard",
+        "a keypad or touchscreen",
+        "a small, rectangular shape",
+        "a speaker and microphone",
+        "buttons or a touchscreen",
+        "buttons or icons for various functions",
+        "the ability to make phone calls"
+    ],
+    "hugging": [
+        "a gentle embrace",
+        "a warm, intimate embrace",
+        "their arms wrapped around each other",
+        "their bodies pressed close together",
+        "two people standing close to each other",
+        "two people with their arms around each other"
+    ],
+    "eating": [
+        "a plate of food",
+        "a seated position",
+        "chewing and swallowing",
+        "ingesting food through the mouth",
+        "mastication",
+        "swallowing",
+        "the presence of teeth",
+        "the use of utensils"
+    ],
+    "admiring": [
+        "a pleased or proud expression",
+        "looking at someone or something with approval or admiration",
+        "looking at someone with respect or approval",
+        "meet someone's eyes and smile",
+        "positive feelings",
+        "shows appreciation"
+    ],
+    "leaning": [
+        "an object that is not vertical",
+        "something that is not level",
+        "something that is not vertical",
+        "something that is tilted or slanted",
+        "the object is not stable",
+        "the object is supported on one side",
+        "the object is tilted to one side"
+    ],
+    "putting": [
+        "a circular shape",
+        "a golf club",
+        "a green",
+        "a green surface",
+        "a small, white ball",
+        "a smooth surface"
+    ],
+    "carrying": [
+        "a large, rectangular shape",
+        "a shoulder strap",
+        "a zipper or snap closure",
+        "can be a basket, a bag, or a container",
+        "something that is being held in the hand",
+        "two handles on either side",
+        "used for carrying things",
+        "usually has a handle"
+    ],
+    "reading": [
+        "a book or other reading material",
+        "a person sitting in a chair with a book in their hands",
+        "a person sitting in a comfortable position",
+        "a person's eyes moving back and forth as they read",
+        "a person's finger tracing the words on the page",
+        "a person's mouth moving as they read silently to themselves",
+        "a quiet environment",
+        "good lighting"
+    ],
+    "communicating": [
+        "the ability to exchange information",
+        "the ability to understand and be understood by others",
+        "the ability to understand each other",
+        "the ability to use language",
+        "the use of language to exchange information",
+        "the use of symbols to represent ideas"
+    ],
+    "hitchhiking": [
+        "a look of hope or desperation",
+        "a person standing by the side of the road",
+        "a sign with the destination",
+        "a thumb held out",
+        "looking for a ride",
+        "standing by the side of the road",
+        "thumb out"
+    ],
+    "resting": [
+        "a person lying down",
+        "a person not moving",
+        "a person reclining",
+        "a person sitting up",
+        "a person with their eyes closed"
+    ],
+    "vacuuming": [
+        "a cord",
+        "a cord connecting the two",
+        "a long, cylindrical shape",
+        "a motor at one end",
+        "a nozzle at the other end",
+        "a trigger for turning the vacuum on and off",
+        "wheels"
+    ],
+    "talking": [
+        "the ability to communicate using language",
+        "the ability to form words using the mouth",
+        "the ability to produce sounds using the mouth",
+        "the ability to produce speech",
+        "the ability to understand and respond to language",
+        "the ability to understand speech"
+    ],
+    "cleaning": [
+        "removing dirt, stains, or other impurities",
+        "scrubbing or rubbing",
+        "the act of making something clean",
+        "the removal of dirt, stains, or debris",
+        "the use of soap or detergent",
+        "the use of water",
+        "using soap, water, and/or other cleaning agents"
+    ],
+    "sitting": [
+        "a person's body in a upright position",
+        "buttocks are resting on the heels",
+        "legs are bent at the knees",
+        "the back is straight",
+        "the hands are resting on the thighs",
+        "the person is not moving",
+        "the person's eyes are closed",
+        "the person's hands are resting in their lap",
+        "the person's legs are not crossed"
+    ],
+    "patting": [
+        "a motion made with the hand",
+        "a quick, light touch",
+        "a rhythmic motion",
+        "light to moderate pressure",
+        "to show affection or approval",
+        "touching with the palm or fingertips",
+        "usually with the hand"
+    ],
+    "hunching": [
+        "a forward head tilt",
+        "a forward-leaning head",
+        "a hunched over posture",
+        "a rounded back",
+        "a rounded shoulders",
+        "a stooped back",
+        "slumped shoulders"
+    ],
+    "smelling": [
+        "a liquid or semisolid consistency",
+        "a small container",
+        "a tight-fitting lid",
+        "the ability to detect scents",
+        "the ability to discriminate between scents",
+        "the ability to emit a scent",
+        "the ability to emit a strong, often unpleasant odor"
+    ],
+    "rehabilitating": [
+        "a curved or sloped surface",
+        "a non-slip surface",
+        "a person who is receiving treatment for an illness",
+        "a person who is recovering from an addiction",
+        "a person who is working to improve their physical or mental health",
+        "a railing or handrail",
+        "a series of steps or ledges"
+    ],
+    "perspiring": [
+        "a feeling of heat or warmth",
+        "a feeling of warmth",
+        "a flushed or reddened appearance",
+        "a rapid heart rate",
+        "beads of sweat on the skin",
+        "clammy skin",
+        "dizziness",
+        "excessive sweating",
+        "heavy breathing",
+        "rapid heartbeat"
+    ],
+    "shushing": [
+        "a gesture made by placing a finger to the lips",
+        "a gesture that signifies \"quiet\" or \"be silent\"",
+        "a hand held up with the palm facing out",
+        "the hand moving back and forth horizontally",
+        "the index and middle fingers extended and the other fingers tucked in"
+    ],
+    "helping": [
+        "a good Samaritan",
+        "a person who is kind and helpful",
+        "always willing to help out",
+        "it involves helping someone",
+        "it is an action",
+        "it is done without expecting anything in return",
+        "willing to lend a hand"
+    ],
+    "practicing": [
+        "a person holding a musical instrument",
+        "a person sitting or standing with eyes closed",
+        "a person wearing headphones",
+        "a person with a concentrated expression",
+        "a person with musical instrument",
+        "sound coming from the instrument",
+        "the person is focused and concentrated",
+        "the person is making repeating motions",
+        "the person is moving their hands and/or body"
+    ],
+    "pinning": [
+        "a long shaft in between",
+        "a round head at the other end",
+        "a sharp point at one end",
+        "a small, thin metal object",
+        "a small, thin object",
+        "used to fasten things together",
+        "usually has a sharp point at one end"
+    ],
+    "embracing": [
+        "a look of happiness or love on their faces",
+        "a loving or intimate expression on both people's faces",
+        "both people's heads close together",
+        "one person's arms around the other",
+        "their arms around each other",
+        "their heads close together",
+        "two people standing close together"
+    ],
+    "drinking": [
+        "a person with their lips on a vessel containing liquid",
+        "can be done with a bottle",
+        "can be done with fingers",
+        "can be done with straw",
+        "the act of consuming a liquid",
+        "the liquid is usually clear or amber in color",
+        "the person is tilting their head back to drink",
+        "the person's eyes may be closed or open",
+        "usually done with a cup or glass"
+    ],
+    "pushing": [
+        "both people leaning forward",
+        "both people with their feet on the ground",
+        "one person has their hands on the other person's chest",
+        "one person's hands on the other person's back",
+        "the person being pushed is moving backwards",
+        "two people close together",
+        "two people, side by side"
+    ],
+    "crying": [
+        "a quivering chin",
+        "a sad expression",
+        "a sad or pained expression",
+        "heaving shoulders",
+        "red, swollen eyes",
+        "sounds of crying",
+        "tears running down the face",
+        "tears streaming down the face"
+    ],
+    "rubbing": [
+        "a motion of repeated friction",
+        "can also be done for pleasure",
+        "can also be done with an object",
+        "the act of moving one's hand back and forth over a surface",
+        "the skin may become red or irritated from rubbing",
+        "usually done to clean or dry something",
+        "usually done with the hands"
+    ],
+    "feeding": [
+        "a bowl or dish shape",
+        "a long, curved beak",
+        "a raised edge",
+        "a small body",
+        "a small size",
+        "a smooth surface",
+        "a white breast",
+        "dark feathers",
+        "orange feet"
+    ]
+}

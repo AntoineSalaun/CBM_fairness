@@ -1,0 +1,323 @@
+{
+    "phoning": [
+        "a chair",
+        "a computer",
+        "a desk",
+        "a headset",
+        "a person",
+        "a phone"
+    ],
+    "hugging": [
+        "a hug",
+        "a person",
+        "a smile",
+        "a touch"
+    ],
+    "eating": [
+        "a chair",
+        "a fridge",
+        "a kitchen",
+        "a person",
+        "a sink",
+        "a stove",
+        "a table",
+        "food",
+        "utensils"
+    ],
+    "admiring": [
+        "a chair",
+        "a computer",
+        "a desk",
+        "a paper",
+        "a pen",
+        "a person",
+        "a phone",
+        "an office",
+        "people"
+    ],
+    "leaning": [
+        "a book",
+        "a ceiling",
+        "a desk",
+        "a floor",
+        "a highlighter",
+        "a ladder",
+        "a library",
+        "a paint can",
+        "a paintbrush",
+        "a pencil",
+        "a person",
+        "a wall"
+    ],
+    "putting": [
+        "a cup",
+        "a golf ball",
+        "a golf cart",
+        "a golf club",
+        "a golf course",
+        "a person"
+    ],
+    "carrying": [
+        "a backpack",
+        "a bag",
+        "a charger",
+        "a laptop",
+        "a person",
+        "a phone",
+        "a set of keys",
+        "headphones"
+    ],
+    "reading": [
+        "a book",
+        "a bookmark",
+        "a desk",
+        "a highlighter",
+        "a notecard",
+        "a pen",
+        "a pencil",
+        "a person",
+        "a reader"
+    ],
+    "communicating": [
+        "a chair",
+        "a computer",
+        "a desk",
+        "a headset",
+        "a person",
+        "a phone"
+    ],
+    "hitchhiking": [
+        "a backpack",
+        "a car",
+        "a driver",
+        "a freeway",
+        "a highway",
+        "a passenger",
+        "a thumb",
+        "an exit"
+    ],
+    "resting": [
+        "a bed",
+        "a blanket",
+        "a comforter",
+        "a person",
+        "a pillow"
+    ],
+    "vacuuming": [
+        "a bag",
+        "a carpet",
+        "a cord",
+        "a dustbin",
+        "a hose",
+        "a person",
+        "a piece of furniture",
+        "a power cord",
+        "a rug",
+        "a vacuum",
+        "a vacuum cleaner"
+    ],
+    "talking": [
+        "a computer",
+        "a microphone",
+        "a person",
+        "a room full of people",
+        "a script",
+        "a sound booth",
+        "a sound system",
+        "headphones"
+    ],
+    "cleaning": [
+        "a broom",
+        "a bucket",
+        "a cleaning solution",
+        "a dustpan",
+        "a mop",
+        "a person",
+        "a rag",
+        "a sponge",
+        "a trash can"
+    ],
+    "sitting": [
+        "a chair",
+        "a computer",
+        "a desk",
+        "a keyboard",
+        "a monitor",
+        "a mouse",
+        "a person"
+    ],
+    "patting": [
+        "a TV",
+        "a blanket",
+        "a blood pressure cuff",
+        "a cat",
+        "a couch",
+        "a doctor",
+        "a lap",
+        "a medical chart",
+        "a nurse",
+        "a patient",
+        "a remote",
+        "a stethoscope",
+        "a thermometer"
+    ],
+    "hunching": [
+        "a chair",
+        "a coffee mug",
+        "a computer",
+        "a desk",
+        "a hunch",
+        "a keyboard",
+        "a laptop",
+        "a monitor",
+        "a mouse",
+        "a pen",
+        "a person",
+        "a stack of papers"
+    ],
+    "smelling": [
+        "a Bunsen burner",
+        "a beaker",
+        "a chemical",
+        "a computer",
+        "a desk",
+        "a flask",
+        "a lab",
+        "a microscope"
+    ],
+    "rehabilitating": [
+        "a bed",
+        "a chair",
+        "a clinic",
+        "a doctor",
+        "a hospital",
+        "a machine",
+        "a nurse",
+        "a patient",
+        "a person",
+        "a table"
+    ],
+    "perspiring": [
+        "a chair",
+        "a computer",
+        "a cup of coffee",
+        "a desk",
+        "a keyboard",
+        "a monitor",
+        "a mouse",
+        "a person",
+        "a room",
+        "a sweat"
+    ],
+    "shushing": [
+        "a computer",
+        "a desk",
+        "a library",
+        "a pen",
+        "a pencil",
+        "a person",
+        "books",
+        "quiet"
+    ],
+    "helping": [
+        "a chair",
+        "a computer",
+        "a desk",
+        "a keyboard",
+        "a paper",
+        "a pencil",
+        "a person",
+        "a phone"
+    ],
+    "practicing": [
+        "a chair",
+        "a computer",
+        "a courtroom",
+        "a desk",
+        "a lawyer",
+        "a legal pad",
+        "a pen",
+        "a person",
+        "a phone",
+        "a whiteboard"
+    ],
+    "pinning": [
+        "a board",
+        "a chair",
+        "a computer",
+        "a corkboard",
+        "a desk",
+        "a laptop",
+        "a paper",
+        "a pen",
+        "a person",
+        "a printer",
+        "a stack of papers",
+        "a stapler"
+    ],
+    "embracing": [
+        "a hug",
+        "a person",
+        "a smile"
+    ],
+    "drinking": [
+        "a bar",
+        "a bartender",
+        "a bottle",
+        "a customer",
+        "a drink",
+        "a glass",
+        "a liquor",
+        "a stool"
+    ],
+    "pushing": [
+        "a baby",
+        "a broom",
+        "a bucket",
+        "a cleaning solution",
+        "a dustpan",
+        "a house",
+        "a mop",
+        "a park",
+        "a rag",
+        "a sidewalk",
+        "a sponge",
+        "a street",
+        "a stroller",
+        "a trash can"
+    ],
+    "crying": [
+        "a box of tissues",
+        "a computer",
+        "a cup of coffee",
+        "a desk",
+        "a face",
+        "a laptop",
+        "a person",
+        "a phone",
+        "a tissue",
+        "a water bottle"
+    ],
+    "rubbing": [
+        "a bottle of massage oil",
+        "a clock",
+        "a massage chair",
+        "a massage table",
+        "a person",
+        "a quiet room",
+        "a stool",
+        "a towel",
+        "oil",
+        "towels"
+    ],
+    "feeding": [
+        "a chair",
+        "a kitchen",
+        "a person",
+        "a refrigerator",
+        "a sink",
+        "a stove",
+        "a table",
+        "food"
+    ]
+}

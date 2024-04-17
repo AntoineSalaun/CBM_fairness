@@ -1,0 +1,2 @@
+0.36367164758393167
+{'Count male 1': 38, 'Proportion 1': 0.38, 'Count male 2': 39, 'Proportion 2': 0.39, 'Count total': 77, 'Proportion total': 0.385, 'Length Total': 200, 'accuracy_parity': 0.0001411494901144006, 'accuracy_parity_class': 'female', 'per_class_accuracy_parity': 0.1290860875450658, 'Male Parity Top 3 Classes': 'standing (0.5384615384615385), splashing (0.4444444444444444), practicing (0.4117647058823529)', 'Female Parity Top 3 Classes': 'skating (-0.5), wheeling (-0.4615384615384615), weighing (-0.4)'}

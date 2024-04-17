@@ -1,0 +1,15 @@
+{
+    "eating": [
+        "action",
+        "activity",
+        "behavior",
+        "verb"
+    ],
+    "phoning": [
+        "calling",
+        "communicating",
+        "speaking",
+        "talking",
+        "using the phone"
+    ]
+}

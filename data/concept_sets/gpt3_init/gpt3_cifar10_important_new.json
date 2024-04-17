@@ -1,0 +1,104 @@
+{
+    "airplane": [
+        "a large, metal body",
+        "a tail",
+        "a tail with a horizontal stabilizer",
+        "engines",
+        "engines attached to the wings",
+        "landing gear",
+        "two wings",
+        "wings"
+    ],
+    "automobile": [
+        "a car-like body",
+        "a metal body",
+        "a steering wheel and dashboard inside",
+        "a steering wheel in the front",
+        "doors on the sides",
+        "four metal plates that serve as wheels",
+        "four rubber or plastic tires",
+        "headlights and taillights",
+        "windows all around"
+    ],
+    "bird": [
+        "a beak",
+        "a tail",
+        "ability to fly",
+        "feathers",
+        "legs",
+        "two legs",
+        "wings"
+    ],
+    "cat": [
+        "a long tail",
+        "a small or medium-sized body",
+        "a small to medium sized body",
+        "four legs",
+        "furry coat",
+        "pointed ears",
+        "whiskers"
+    ],
+    "deer": [
+        "a brown or reddish coat",
+        "a compact body",
+        "a long neck",
+        "a long nose",
+        "a tail",
+        "a white tail",
+        "antlers",
+        "large antlers",
+        "long legs",
+        "long, slender legs"
+    ],
+    "dog": [
+        "a face with two eyes, a nose, and a mouth",
+        "a four-legged animal",
+        "a mammalian body",
+        "a snout",
+        "a tail",
+        "fur",
+        "pointed ears"
+    ],
+    "frog": [
+        "a green or brown body",
+        "a small, green body",
+        "a wide mouth",
+        "large eyes",
+        "large, bulging eyes",
+        "long hind legs for jumping",
+        "long, powerful legs",
+        "webbed feet"
+    ],
+    "horse": [
+        "a head with large eyes, nostrils, and ears",
+        "a large body",
+        "a large, muscular body",
+        "a long head",
+        "a long mane and tail",
+        "a mane",
+        "a tail",
+        "four legs",
+        "hooves"
+    ],
+    "ship": [
+        "a deck",
+        "a hull",
+        "a large size",
+        "a sleek, aerodynamic shape",
+        "large size",
+        "mast(s)",
+        "one or more decks",
+        "one or more masts",
+        "one or more sails",
+        "sail(s)"
+    ],
+    "truck": [
+        "a bed for hauling cargo",
+        "a cab for the driver",
+        "a cargo area",
+        "a front grille",
+        "a large, boxy body",
+        "a powerful engine",
+        "four wheels"
+    ]
+}

@@ -1,0 +1,1187 @@
+{
+    "adjusting": [
+        "altering",
+        "changing",
+        "modifying",
+        "varying"
+    ],
+    "admiring": [
+        "action",
+        "adjective",
+        "describing word",
+        "emotion",
+        "feeling"
+    ],
+    "applying": [
+        "action",
+        "activity",
+        "process",
+        "verb"
+    ],
+    "arranging": [
+        "organizing",
+        "placing",
+        "putting in order",
+        "sequencing"
+    ],
+    "asking": [
+        "action",
+        "activity",
+        "behavior",
+        "communication"
+    ],
+    "autographing": [
+        "action",
+        "activity",
+        "signing",
+        "writing"
+    ],
+    "baking": [
+        "activity",
+        "cooking",
+        "food preparation"
+    ],
+    "begging": [
+        "action",
+        "activity",
+        "asking",
+        "begging",
+        "behavior",
+        "pleading"
+    ],
+    "biting": [
+        "action",
+        "activity",
+        "behavior"
+    ],
+    "bothering": [
+        "annoying",
+        "disruptive",
+        "disturbing",
+        "interrupting",
+        "negative"
+    ],
+    "browsing": [
+        "looking at something",
+        "searching",
+        "using the internet",
+        "viewing"
+    ],
+    "brushing": [
+        "action",
+        "activity",
+        "behavior",
+        "movement"
+    ],
+    "buckling": [
+        "action",
+        "deformation",
+        "failure",
+        "mode of failure",
+        "strain",
+        "verb",
+        "word"
+    ],
+    "buttoning": [
+        "action",
+        "behavior",
+        "process"
+    ],
+    "buying": [
+        "action",
+        "activity",
+        "process",
+        "purchase"
+    ],
+    "calling": [
+        "action",
+        "behavior",
+        "communication",
+        "verb"
+    ],
+    "caressing": [
+        "action",
+        "affectionate",
+        "behavior",
+        "embracing",
+        "touching"
+    ],
+    "carrying": [
+        "action",
+        "behavior",
+        "movement",
+        "transportation",
+        "verb"
+    ],
+    "checking": [
+        "activity",
+        "banking",
+        "financial"
+    ],
+    "chewing": [
+        "action",
+        "activity",
+        "behavior",
+        "movement"
+    ],
+    "cleaning": [
+        "action",
+        "activity",
+        "process",
+        "task"
+    ],
+    "climbing": [
+        "activity",
+        "exercise",
+        "outdoors",
+        "sport"
+    ],
+    "combing": [
+        "action",
+        "activity",
+        "behavior"
+    ],
+    "communicating": [
+        "action",
+        "behaving",
+        "interacting",
+        "phenomenon",
+        "process",
+        "talking"
+    ],
+    "complaining": [
+        "action",
+        "behavior"
+    ],
+    "confronting": [
+        "action",
+        "challenging",
+        "difficult",
+        "threatening",
+        "verb"
+    ],
+    "cooking": [
+        "action",
+        "preparation",
+        "process"
+    ],
+    "coughing": [
+        "action",
+        "bodily function",
+        "respiratory system",
+        "symptom"
+    ],
+    "counting": [
+        "abstract",
+        "activity",
+        "math",
+        "numerical",
+        "process"
+    ],
+    "covering": [
+        "clothing",
+        "fabric",
+        "material",
+        "object"
+    ],
+    "crafting": [
+        "activity",
+        "art",
+        "hobby",
+        "making"
+    ],
+    "cramming": [
+        "action",
+        "activity",
+        "study"
+    ],
+    "crouching": [
+        "action",
+        "movement",
+        "position",
+        "posture"
+    ],
+    "crowning": [
+        "action",
+        "activity",
+        "event",
+        "process"
+    ],
+    "crying": [
+        "action",
+        "behavior",
+        "emotion",
+        "feeling",
+        "mood"
+    ],
+    "dialing": [
+        "action",
+        "activity",
+        "process"
+    ],
+    "displaying": [
+        "exhibiting",
+        "presenting",
+        "showing"
+    ],
+    "distributing": [
+        "action",
+        "process",
+        "verb"
+    ],
+    "diving": [
+        "activity",
+        "physical activity",
+        "sport",
+        "swimming"
+    ],
+    "dragging": [
+        "action",
+        "movement",
+        "moving",
+        "verb"
+    ],
+    "drinking": [
+        "action",
+        "behavior"
+    ],
+    "driving": [
+        "action",
+        "activity",
+        "verb"
+    ],
+    "eating": [
+        "action",
+        "verb"
+    ],
+    "embracing": [
+        "holding",
+        "hugging",
+        "physical contact",
+        "touching"
+    ],
+    "emptying": [
+        "consuming",
+        "depleting",
+        "removing",
+        "taking out"
+    ],
+    "encouraging": [
+        "emotion",
+        "emotional",
+        "feeling",
+        "positive"
+    ],
+    "exercising": [
+        "activity",
+        "physical activity"
+    ],
+    "falling": [
+        "action",
+        "motion",
+        "process"
+    ],
+    "feeding": [
+        "action",
+        "activity",
+        "process"
+    ],
+    "frowning": [
+        "behavior",
+        "expression",
+        "facial expression",
+        "nonverbal communication"
+    ],
+    "frying": [
+        "action",
+        "activity",
+        "cooking",
+        "food preparation",
+        "method"
+    ],
+    "gardening": [
+        "activity",
+        "hobby",
+        "outdoor activity"
+    ],
+    "gasping": [
+        "action",
+        "activity",
+        "breathing",
+        "respiration"
+    ],
+    "giggling": [
+        "action",
+        "behavior",
+        "emotion",
+        "expressing amusement",
+        "laughing"
+    ],
+    "giving": [
+        "action",
+        "activity",
+        "behavior"
+    ],
+    "glaring": [
+        "bright",
+        "intense",
+        "light",
+        "strong"
+    ],
+    "grimacing": [
+        "body language",
+        "facial expression",
+        "nonverbal communication"
+    ],
+    "grinning": [
+        "action",
+        "behavior",
+        "body language",
+        "expression",
+        "facial expression"
+    ],
+    "hanging": [
+        "motion",
+        "position",
+        "quality",
+        "state"
+    ],
+    "heaving": [
+        "action",
+        "moving",
+        "throwing",
+        "verb"
+    ],
+    "helping": [
+        "action",
+        "activity",
+        "behavior"
+    ],
+    "hitchhiking": [
+        "activity",
+        "transportation",
+        "travel",
+        "traveling"
+    ],
+    "hoeing": [
+        "agriculture",
+        "farming",
+        "gardening",
+        "outdoor activity"
+    ],
+    "hugging": [
+        "action",
+        "embrace",
+        "touch"
+    ],
+    "hunching": [
+        "action",
+        "behavior",
+        "movement"
+    ],
+    "ignoring": [
+        "disregarding",
+        "neglecting",
+        "not paying attention",
+        "paying no attention to"
+    ],
+    "immersing": [
+        "inserting",
+        "placing",
+        "putting under water",
+        "submerging"
+    ],
+    "instructing": [
+        "activity",
+        "communicating",
+        "learning",
+        "teaching"
+    ],
+    "interviewing": [
+        "activity",
+        "communicating",
+        "communication",
+        "interacting",
+        "process",
+        "speaking"
+    ],
+    "jogging": [
+        "exercise",
+        "physical activity",
+        "sport"
+    ],
+    "jumping": [
+        "action",
+        "activity",
+        "motion",
+        "movement",
+        "physical activity"
+    ],
+    "kicking": [
+        "action",
+        "activity",
+        "behavior",
+        "movement"
+    ],
+    "kissing": [
+        "action",
+        "behavior",
+        "interaction",
+        "physical activity"
+    ],
+    "kneeling": [
+        "action",
+        "activity",
+        "position",
+        "posture"
+    ],
+    "lathering": [
+        "action",
+        "behavior",
+        "cleaning",
+        "process"
+    ],
+    "laughing": [
+        "action",
+        "behavior",
+        "emotion",
+        "feeling"
+    ],
+    "leaning": [
+        "action",
+        "attribute",
+        "movement",
+        "position",
+        "state"
+    ],
+    "licking": [
+        "action",
+        "behavior"
+    ],
+    "lifting": [
+        "activity",
+        "exercise",
+        "movement",
+        "physical activity"
+    ],
+    "making": [
+        "action",
+        "behavior",
+        "process",
+        "verb"
+    ],
+    "manicuring": [
+        "activity",
+        "grooming",
+        "hygiene"
+    ],
+    "measuring": [
+        "action",
+        "activity",
+        "process",
+        "verb"
+    ],
+    "milking": [
+        "action",
+        "activity",
+        "agriculture",
+        "farming"
+    ],
+    "misbehaving": [
+        "action",
+        "activity",
+        "behaving"
+    ],
+    "mopping": [
+        "activity",
+        "cleaning",
+        "household chores"
+    ],
+    "offering": [
+        "contribution",
+        "donation",
+        "gift",
+        "thing"
+    ],
+    "opening": [
+        "aperture",
+        "gap",
+        "hole",
+        "orifice",
+        "space"
+    ],
+    "operating": [
+        "carried out",
+        "done",
+        "entertainment",
+        "performed",
+        "television",
+        "watching"
+    ],
+    "packaging": [
+        "container",
+        "material",
+        "object"
+    ],
+    "packing": [
+        "activity",
+        "box",
+        "container",
+        "object",
+        "process",
+        "wrapping"
+    ],
+    "painting": [
+        "art",
+        "object"
+    ],
+    "pasting": [
+        "adhesive",
+        "applying",
+        "attaching",
+        "gluing",
+        "substance"
+    ],
+    "patting": [
+        "action",
+        "behavior",
+        "physical contact",
+        "touching"
+    ],
+    "paying": [
+        "action",
+        "actionGive superclasses for the word \"moth\":",
+        "activity",
+        "animal",
+        "insect",
+        "process",
+        "verb"
+    ],
+    "pedaling": [
+        "cycling",
+        "exercise",
+        "physical activity"
+    ],
+    "perspiring": [
+        "chromatic",
+        "color",
+        "emitting",
+        "excretionGive superclasses for the word \"red\":",
+        "hue",
+        "secreting",
+        "sweating"
+    ],
+    "phoning": [
+        "action",
+        "activity",
+        "communicating",
+        "communication"
+    ],
+    "photographing": [
+        "action",
+        "activity",
+        "art",
+        "process",
+        "taking a picture",
+        "using a camera"
+    ],
+    "picking": [
+        "action",
+        "activity",
+        "behavior"
+    ],
+    "pinching": [
+        "action",
+        "activity",
+        "behavior"
+    ],
+    "pinning": [
+        "action",
+        "activity",
+        "process"
+    ],
+    "placing": [
+        "action",
+        "event",
+        "verb"
+    ],
+    "potting": [
+        "farming",
+        "gardening",
+        "planting",
+        "soil"
+    ],
+    "pouring": [
+        "action",
+        "activity",
+        "process"
+    ],
+    "pouting": [
+        "emotion",
+        "expression",
+        "facial expression",
+        "nonverbal communication"
+    ],
+    "practicing": [
+        "action",
+        "activity",
+        "doing",
+        "gerund",
+        "verb"
+    ],
+    "praying": [
+        "action",
+        "behavior"
+    ],
+    "pressing": [
+        "action",
+        "process",
+        "task",
+        "work"
+    ],
+    "providing": [
+        "furnish",
+        "furnishing",
+        "give",
+        "giving",
+        "supply",
+        "supplying"
+    ],
+    "pumping": [
+        "action",
+        "activity",
+        "exercise",
+        "physical activity",
+        "process"
+    ],
+    "pushing": [
+        "action",
+        "activity",
+        "motion",
+        "movement",
+        "verb"
+    ],
+    "putting": [
+        "activity",
+        "golf",
+        "sport"
+    ],
+    "raking": [
+        "garden",
+        "garden tool",
+        "outdoor",
+        "tool",
+        "yard"
+    ],
+    "reading": [
+        "action",
+        "activity",
+        "process"
+    ],
+    "reassuring": [
+        "comforting",
+        "emotion",
+        "encouraging",
+        "feeling",
+        "heartening",
+        "state"
+    ],
+    "recovering": [
+        "getting better",
+        "healing",
+        "improving",
+        "progressing"
+    ],
+    "recuperating": [
+        "getting better",
+        "healing",
+        "recovering"
+    ],
+    "rehabilitating": [
+        "action",
+        "curing",
+        "helping",
+        "process",
+        "treating",
+        "treatment"
+    ],
+    "releasing": [
+        "action",
+        "event",
+        "process"
+    ],
+    "resting": [
+        "action",
+        "activity",
+        "calm",
+        "inactivity",
+        "state",
+        "stillness"
+    ],
+    "riding": [
+        "activity",
+        "motion",
+        "transportation",
+        "travel"
+    ],
+    "rocking": [
+        "action",
+        "motion",
+        "movement",
+        "verb"
+    ],
+    "rubbing": [
+        "action",
+        "activity",
+        "motion",
+        "movement",
+        "touching"
+    ],
+    "running": [
+        "activity",
+        "exercise",
+        "movement"
+    ],
+    "saluting": [
+        "action",
+        "activity",
+        "behavior",
+        "gesture"
+    ],
+    "saying": [
+        "communication",
+        "expression",
+        "speech"
+    ],
+    "scolding": [
+        "action",
+        "punishment",
+        "reprimand"
+    ],
+    "scooping": [
+        "action",
+        "verb"
+    ],
+    "scratching": [
+        "action",
+        "activity",
+        "behavior",
+        "motion"
+    ],
+    "scrubbing": [
+        "action",
+        "activity",
+        "cleaning"
+    ],
+    "serving": [
+        "action",
+        "activity",
+        "process",
+        "thing"
+    ],
+    "shelving": [
+        "furniture",
+        "object"
+    ],
+    "shivering": [
+        "cold",
+        "feeling",
+        "temperature"
+    ],
+    "shooting": [
+        "activity",
+        "event",
+        "physical activity",
+        "recreation",
+        "sport"
+    ],
+    "shopping": [
+        "activity",
+        "errand",
+        "purchase",
+        "pursuit"
+    ],
+    "shouting": [
+        "action",
+        "behavior",
+        "communication",
+        "vocalization"
+    ],
+    "shrugging": [
+        "body language",
+        "expression",
+        "gesture"
+    ],
+    "shushing": [
+        "action",
+        "behavior",
+        "communication",
+        "sound"
+    ],
+    "signaling": [
+        "action",
+        "activity",
+        "behaving",
+        "communicating",
+        "communication",
+        "process"
+    ],
+    "sitting": [
+        "action",
+        "position",
+        "state"
+    ],
+    "skating": [
+        "activity",
+        "exercise",
+        "movement",
+        "sport"
+    ],
+    "slapping": [
+        "action",
+        "hitting",
+        "physical action",
+        "touching"
+    ],
+    "sleeping": [
+        "inactive",
+        "resting",
+        "state",
+        "unconscious"
+    ],
+    "slouching": [
+        "body language",
+        "body position",
+        "movement",
+        "position",
+        "posture"
+    ],
+    "smashing": [
+        "action",
+        "breaking",
+        "destroying",
+        "violent"
+    ],
+    "smearing": [
+        "action",
+        "activity",
+        "behavior",
+        "process"
+    ],
+    "smelling": [
+        "action",
+        "function",
+        "perceiving",
+        "sensing"
+    ],
+    "smiling": [
+        "emotion",
+        "expression",
+        "feeling",
+        "state"
+    ],
+    "sneezing": [
+        "action",
+        "body function",
+        "phenomenon",
+        "respiratory system"
+    ],
+    "sniffing": [
+        "action",
+        "sensing",
+        "smelling"
+    ],
+    "snuggling": [
+        "action",
+        "cuddle",
+        "cuddling",
+        "embrace",
+        "touch",
+        "touching"
+    ],
+    "speaking": [
+        "action",
+        "behavior",
+        "communication",
+        "process"
+    ],
+    "splashing": [
+        "action",
+        "event",
+        "movement",
+        "phenomenon"
+    ],
+    "spying": [
+        "action",
+        "behavior",
+        "monitoring",
+        "observation",
+        "observing",
+        "watching"
+    ],
+    "squeezing": [
+        "action",
+        "behavior",
+        "movement",
+        "physical activity"
+    ],
+    "squinting": [
+        "action",
+        "expression",
+        "facial expression",
+        "looking",
+        "seeing"
+    ],
+    "standing": [
+        "position",
+        "quality",
+        "state"
+    ],
+    "staring": [
+        "gazing",
+        "looking",
+        "observing",
+        "seeing"
+    ],
+    "stirring": [
+        "action",
+        "movement",
+        "process",
+        "verb"
+    ],
+    "stooping": [
+        "action",
+        "position",
+        "posture"
+    ],
+    "strapping": [
+        "adjective",
+        "descriptor",
+        "noun",
+        "verb",
+        "word"
+    ],
+    "stretching": [
+        "action",
+        "activity",
+        "exercise",
+        "physical activity"
+    ],
+    "stripping": [
+        "action",
+        "removal",
+        "removing",
+        "taking off"
+    ],
+    "stroking": [
+        "action",
+        "activity",
+        "behavior",
+        "touching"
+    ],
+    "studying": [
+        "activity",
+        "learning",
+        "process"
+    ],
+    "stuffing": [
+        "food",
+        "material"
+    ],
+    "sweeping": [
+        "action",
+        "activity",
+        "cleaning"
+    ],
+    "swinging": [
+        "action",
+        "motion"
+    ],
+    "talking": [
+        "action",
+        "behavior",
+        "communicating",
+        "communication"
+    ],
+    "taping": [
+        "action",
+        "activity",
+        "process",
+        "verb"
+    ],
+    "tasting": [
+        "action",
+        "event",
+        "experience",
+        "experiencing",
+        "perceiving",
+        "sensing"
+    ],
+    "tearing": [
+        "action",
+        "process",
+        "separating"
+    ],
+    "telephoning": [
+        "action",
+        "activity",
+        "communicating",
+        "communication",
+        "using phone"
+    ],
+    "tickling": [
+        "action",
+        "emotion",
+        "experience",
+        "feeling",
+        "sensation"
+    ],
+    "tilting": [
+        "action",
+        "changing",
+        "moving"
+    ],
+    "tripping": [
+        "action",
+        "event",
+        "falling",
+        "motion",
+        "movement"
+    ],
+    "turning": [
+        "action",
+        "motion",
+        "process"
+    ],
+    "twirling": [
+        "action",
+        "activity",
+        "motion",
+        "movement"
+    ],
+    "twisting": [
+        "action",
+        "motion",
+        "process",
+        "verb"
+    ],
+    "tying": [
+        "action",
+        "activity",
+        "process"
+    ],
+    "typing": [
+        "activity",
+        "process"
+    ],
+    "unpacking": [
+        "action",
+        "opening",
+        "process",
+        "removing"
+    ],
+    "vacuuming": [
+        "activity",
+        "cleaning",
+        "household chore",
+        "household chores"
+    ],
+    "vaulting": [
+        "activity",
+        "gymnastics",
+        "sport"
+    ],
+    "waiting": [
+        "State",
+        "Time",
+        "condition",
+        "situation",
+        "state"
+    ],
+    "walking": [
+        "Action",
+        "Locomotion",
+        "Moving",
+        "action",
+        "activity",
+        "movement"
+    ],
+    "washing": [
+        "activity",
+        "cleaning",
+        "process"
+    ],
+    "waving": [
+        "action",
+        "activity",
+        "motion"
+    ],
+    "weeping": [
+        "crying",
+        "emotion",
+        "feeling",
+        "sad",
+        "sadness"
+    ],
+    "weighing": [
+        "action",
+        "measure",
+        "measurement",
+        "process",
+        "weight"
+    ],
+    "wheeling": [
+        "action",
+        "motion"
+    ],
+    "whistling": [
+        "action",
+        "sound"
+    ],
+    "winking": [
+        "action",
+        "behavior",
+        "body language",
+        "facial expression"
+    ],
+    "wiping": [
+        "action",
+        "activity",
+        "cleaning"
+    ],
+    "working": [
+        "action",
+        "activity",
+        "process",
+        "state"
+    ],
+    "wringing": [
+        "action",
+        "motion",
+        "movement",
+        "process"
+    ],
+    "wrinkling": [
+        "change",
+        "process"
+    ],
+    "writing": [
+        "action",
+        "activity",
+        "communication",
+        "language"
+    ],
+    "yanking": [
+        "action",
+        "behavior",
+        "movement",
+        "physical activity"
+    ],
+    "yawning": [
+        "action",
+        "activity",
+        "breathing",
+        "exercise",
+        "stretching"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "doctor": [
+        "expert",
+        "human",
+        "person",
+        "professional"
+    ],
+    "nurse": [
+        "health care worker",
+        "healthcare worker",
+        "human",
+        "medical professional",
+        "person"
+    ]
+}
