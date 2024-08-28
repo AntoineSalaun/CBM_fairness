@@ -1,2 +1,0 @@
-0.31260278068470626
-{'Count male 1': 54, 'Proportion 1': 0.54, 'Count male 2': 42, 'Proportion 2': 0.42, 'Count total': 96, 'Proportion total': 0.48, 'Length Total': 200, 'accuracy_parity': 0.015106863357533085, 'accuracy_parity_class': 'female', 'per_class_accuracy_parity': 0.13570349086265035, 'Male Parity Top 3 Classes': 'counting (0.5294117647058824), lathering (0.5252525252525253), autographing (0.4)', 'Female Parity Top 3 Classes': 'packing (-0.47058823529411764), mopping (-0.4476190476190476), saluting (-0.4444444444444444)'}

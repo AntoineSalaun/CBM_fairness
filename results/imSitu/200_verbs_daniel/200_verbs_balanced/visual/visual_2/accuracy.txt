@@ -1,2 +1,0 @@
-0.29681429681429683
-{'Count male 1': 35, 'Proportion 1': 0.35, 'Count male 2': 40, 'Proportion 2': 0.4, 'Count total': 75, 'Proportion total': 0.375, 'Length Total': 200, 'accuracy_parity': 0.014763014763014781, 'accuracy_parity_class': 'female', 'per_class_accuracy_parity': 0.14373517360262705, 'Male Parity Top 3 Classes': 'baking (0.46153846153846156), lathering (0.4444444444444444), cooking (0.41666666666666674)', 'Female Parity Top 3 Classes': 'buckling (-0.5555555555555556), sneezing (-0.5454545454545454), pumping (-0.4444444444444445)'}

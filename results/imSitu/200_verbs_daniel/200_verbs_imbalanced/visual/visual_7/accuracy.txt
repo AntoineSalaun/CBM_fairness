@@ -1,2 +1,0 @@
-0.3016705516705517
-{'Count male 1': 47, 'Proportion 1': 0.47, 'Count male 2': 43, 'Proportion 2': 0.43, 'Count total': 90, 'Proportion total': 0.45, 'Length Total': 200, 'accuracy_parity': 0.021682763906608504, 'accuracy_parity_class': 'female', 'per_class_accuracy_parity': 0.14852498406536796, 'Male Parity Top 3 Classes': 'begging (0.5454545454545454), buttoning (0.5), crafting (0.45454545454545453)', 'Female Parity Top 3 Classes': 'pouring (-0.5), buckling (-0.4444444444444444), wheeling (-0.43790849673202614)'}

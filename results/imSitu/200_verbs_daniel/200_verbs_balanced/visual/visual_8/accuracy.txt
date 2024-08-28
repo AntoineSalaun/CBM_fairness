@@ -1,2 +1,0 @@
-0.28593628593628595
-{'Count male 1': 30, 'Proportion 1': 0.3, 'Count male 2': 47, 'Proportion 2': 0.47, 'Count total': 77, 'Proportion total': 0.385, 'Length Total': 200, 'accuracy_parity': 0.01709401709401709, 'accuracy_parity_class': 'female', 'per_class_accuracy_parity': 0.14494220414518394, 'Male Parity Top 3 Classes': 'autographing (0.5), begging (0.5), buttoning (0.41666666666666674)', 'Female Parity Top 3 Classes': 'strapping (-0.6), pedaling (-0.5), studying (-0.5)'}

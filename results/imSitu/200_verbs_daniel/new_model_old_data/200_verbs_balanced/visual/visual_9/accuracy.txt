@@ -1,2 +1,0 @@
-0.33106928003104985
-{'Count male 1': 40, 'Proportion 1': 0.4, 'Count male 2': 40, 'Proportion 2': 0.4, 'Count total': 80, 'Proportion total': 0.4, 'Length Total': 200, 'accuracy_parity': 0.0009047426228678268, 'accuracy_parity_class': 'female', 'per_class_accuracy_parity': 0.1253721308361401, 'Male Parity Top 3 Classes': 'standing (0.6153846153846154), releasing (0.49999999999999994), rocking (0.49999999999999994)', 'Female Parity Top 3 Classes': 'climbing (-0.45454545454545453), sneezing (-0.4545454545454545), perspiring (-0.368421052631579)'}
